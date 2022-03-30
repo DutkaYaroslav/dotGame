@@ -1,0 +1,24 @@
+body {
+    padding: 0;
+    margin:0;
+}
+canvas {
+    width:100%
+}
+
+@font-face {
+    font-family:'VintageKing' ;
+    src: url('assets/fonts/VintageKing.ttf');
+} 
+
+.fontPreload {
+    font-family: 'VintageKing';
+    position: absolute;
+    left: -100px
+}
+
+.fontPreload {
+    font-family: 'VintageKing';
+    position: absolute;
+    left: -100px
+}
