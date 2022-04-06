@@ -40,7 +40,7 @@ class GameScene extends Phaser.Scene {
 
         this.scoreValue = 0;
 
-        this.timeOutScore = this.add.text(10, 10, `score: ${this.scoreValue}`), {
+        this.timeOutScore = this.add.text(10, 10, `score result: ${this.scoreValue}`), {
             font: '36px VintageKing',
             fill: '0'
         }
